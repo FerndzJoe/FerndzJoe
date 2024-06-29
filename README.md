@@ -4,7 +4,7 @@
 - I am enrolled in the U.C. Berkeley Haas Professional Certificate in Machine Learning and Artificial Intelligence
 - I am also enrolled in the Certificate Program in Data Science at U.C. Berkeley Extension
 - 💞️ I’m looking to collaborate on Machine Learning & Artificial Intelligence projects
-- 📫 How to reach me ...
+- 📫 You can reach me on LinkedIn https://www.linkedin.com/in/ferndzjoe/ ...
 
 <!---
 FerndzJoe/FerndzJoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
